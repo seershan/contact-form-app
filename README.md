@@ -41,7 +41,7 @@ This project serves as an excellent starting point for developers looking to und
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/contact-form-app.git
+   git clone https://github.com/seershan/contact-form-app.git
 
 2. **Navigate to the project directory**
 

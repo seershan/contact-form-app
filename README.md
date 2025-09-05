@@ -1,4 +1,3 @@
-````markdown
 # Simple Node.js Contact Form
 
 A clean, modern, and fully functional contact form web application.  
@@ -43,7 +42,6 @@ This project serves as an excellent starting point for developers looking to und
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/contact-form-app.git
-````
 
 2. **Navigate to the project directory**
 
